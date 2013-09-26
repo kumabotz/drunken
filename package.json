@@ -1,6 +1,6 @@
 {
   "name": "drunken",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node command line application to find and replace words in a file.",
   "main": "./lib/main",
   "bin": {
