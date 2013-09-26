@@ -1,0 +1,23 @@
+{
+  "name": "drunken",
+  "version": "0.0.2",
+  "description": "Node command line application to find and replace words in a file.",
+  "main": "./lib/main",
+  "bin": {
+    "drunken": "./bin/drunken.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kumabotz/drunken.git"
+  },
+  "author": "Tery Lim",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "ce59b45d9a2802ae2d9837f240b71b5372e8b69b",
+  "bugs": {
+    "url": "https://github.com/kumabotz/drunken/issues"
+  }
+}
